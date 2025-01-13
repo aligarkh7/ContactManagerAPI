@@ -90,7 +90,7 @@
 ## Как запустить
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/ContactManagerAPI.git
+   git clone https://github.com/aligarkh7/ContactManagerAPI.git
    ```
 2. Перейдите в папку проекта:
    ```bash
